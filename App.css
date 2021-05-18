@@ -1,0 +1,85 @@
+*{
+  font-family: 'Jua', sans-serif;
+font-family: 'Noto Sans KR', sans-serif;
+}
+
+.App {
+  color: #566270;
+  width: 100%;
+  height: 100%;
+  background-color:#E0E3DA;
+  text-align: center;
+  margin: auto;
+  
+}
+
+
+.b1{ 
+  background-color: beige;
+  color: #5a564f;
+  margin: 5px;
+}
+
+.button{ 
+  float: right;
+}
+
+.footer{ 
+  color: #FFFFF3;
+  text-align: center;
+  font-size: 20px;
+  padding: 20px;
+  background-color: #566270;
+  height: 130px;
+  margin-top: 200px;
+}
+
+.header{
+  background-color:#566270;
+  text-align: center;
+  height: 100px;
+}
+
+
+.mypage{
+  color: #FFFFF3;
+  padding-top: 20px;
+  font-size: 30px;
+  font-weight: 100;
+}
+
+.body{ 
+  height: 50%; 
+  margin-top: 50px; 
+  margin-bottom: 50px;
+  font-size: 30px;
+
+}
+
+.me{ 
+  padding-top: 40px;
+  margin-top: 10px;
+  background-color: whitesmoke;
+  color: black;
+  height: 700px;
+}
+
+.span{ 
+  font-size: 50px;
+  text-decoration: underline;
+}
+
+.title{ 
+  color: #5a564f;
+
+}
+
+.content{ 
+  margin-top: 30px;
+  padding-top: 10px;
+}
+
+
+
+
+
